@@ -56,7 +56,7 @@ const Navbar = ({ searchQuery, setSearchQuery }: NavbarProps) => {
             <span className="hidden sm:inline">Add Product</span>
           </Link>
           <Link
-            to="/addProduct"
+            to="/cart"
             className="flex items-center gap-1 text-black-900 hover:text-red-600 transition"
           >
             <ShoppingBagIcon className="h-6 w-6" />
