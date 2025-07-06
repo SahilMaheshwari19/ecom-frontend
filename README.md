@@ -5,8 +5,8 @@
 
 Create `README.md` in your frontend root with:
 
+## Ecom Frontend
 ```markdown
-# Ecom Frontend
 
 A React + TypeScript frontend for the e-commerce platform, integrated with a Spring Boot backend.
 
@@ -27,8 +27,8 @@ A React + TypeScript frontend for the e-commerce platform, integrated with a Spr
 - Image upload during product creation
 - Responsive UI with Tailwind
 - Routing with React Router
-
-## 🚀 Running Locally
+```
+### 🚀 Running Locally
 
 ```
 1️⃣ Clone the repository:
